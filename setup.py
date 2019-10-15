@@ -21,7 +21,7 @@ REQUIRES = [
     'joblib',
     'h5py',
     'spacy==2.0.11',
-    'nltk==3.3',
+    'nltk==3.4.5',
     # 'wikipedia==1.4.0',
     'Flask==1.0.2',
     'Flask-Cors==3.0.6',
