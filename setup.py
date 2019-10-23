@@ -27,7 +27,7 @@ REQUIRES = [
     'Flask-Cors==3.0.6',
     'Flask-RESTful==0.3.6',
     'gunicorn',
-    'Pillow==5.0.0',
+    'Pillow==6.2.0',
     'moviepy',
     'opencv-python',
     'face-recognition==1.2.2',
