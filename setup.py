@@ -24,7 +24,7 @@ REQUIRES = [
     'nltk==3.3',
     # 'wikipedia==1.4.0',
     'Flask==1.0.2',
-    'Flask-Cors==3.0.6',
+    'Flask-Cors==3.0.9',
     'Flask-RESTful==0.3.6',
     'gunicorn',
     'Pillow==5.0.0',
